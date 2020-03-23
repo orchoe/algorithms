@@ -1,7 +1,5 @@
 # algorithms-sort
-Python3 Project
-
-### Sorting Algorithms
+Sorting algorithms, python3 project
 ```
 Including:
     Selection Sort
